@@ -15,4 +15,4 @@ Third Party: <a href='https://pypi.org/project/qrcode/' target="_blank">qrcode</
 7. Scan the QR code (contact_qr_code.png) on Phone 
 
 ## Video Example:
-Part 1: https://youtube.com/shorts/Fk_A7OHWEYA?feature=share
+https://youtube.com/shorts/Fk_A7OHWEYA?feature=share
